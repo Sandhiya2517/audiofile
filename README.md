@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to play and control the audio file”.
-Developed by: HEMANTH A
-Registeration Number :212223220035
+Developed by: SANDHIYA M
+Registeration Number :212224220086
 */
 ```
 activity_main.xml
